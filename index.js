@@ -16,6 +16,6 @@ function increaseRankBy(n) {
 
 function deepestChild() {
   let grandeNode = document.querySelectorAll('#grande-node')
-  let deepestNode = grandeNode[0]
+  let deepestNode = grandeNode.children[0]
   
 }
