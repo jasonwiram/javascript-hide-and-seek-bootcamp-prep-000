@@ -7,7 +7,7 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  
+  var myList = document.querySelectorAll('ul li')
 }
 
 function deepestChild() {
